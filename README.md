@@ -54,8 +54,8 @@
 ![image](https://github.com/user-attachments/assets/977e9a23-9920-4096-9e42-2c3fb6a21173)
 ![image](https://github.com/user-attachments/assets/5106a35e-f6ba-4bef-bc4a-ee6bb83c4ad4)
 
-### Name: Lidison sham M
-## Register Number:24007744
+### Name: Tharun B
+## Register Number:24002876
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
